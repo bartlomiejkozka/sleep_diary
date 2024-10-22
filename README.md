@@ -1,5 +1,5 @@
 # sleep_diary
-wellness app with AI
+wellness app with AI (finishing stage)
 ![Example Image](conception/1.png)
 ![Example Image](conception/2.png)
 ![Example Image](conception/3.png)
