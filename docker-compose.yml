@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  db_control:
+    build:
+      context: ./db_control
+      dockerfile: Dockerfile
+    container_name: db_control
+    env_file:
+      - ./db_control/db_init/.env
+    ports:
+      - "5050:5050"
+
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    container_name: api
+    env_file:
+      - ./api/.env
+    ports:
+      - "8100:8100"
+    depends_on:
+      - db_control
+

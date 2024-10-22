@@ -1,0 +1,92 @@
+2024-09-28 16:26:53 [INFO] - 
+2024-09-28 16:26:53 [INFO] - Starting the service
+2024-09-28 16:26:53 [INFO] - 
+2024-09-28 16:27:39 [INFO] - 
+2024-09-28 16:27:39 [INFO] - Starting the service
+2024-09-28 16:27:39 [INFO] - 
+2024-09-28 16:28:08 [INFO] - 
+2024-09-28 16:28:08 [INFO] - Received call from <property object at 0x102e3b600>
+2024-09-28 16:28:08 [INFO] - 
+2024-09-28 16:28:32 [INFO] - 
+2024-09-28 16:28:32 [INFO] - Returning generated data
+2024-09-28 16:28:32 [INFO] - 
+2024-09-28 16:29:23 [INFO] - 
+2024-09-28 16:29:23 [INFO] - Received call from <property object at 0x102e3b600>
+2024-09-28 16:29:23 [INFO] - 
+2024-09-28 16:29:48 [INFO] - 
+2024-09-28 16:29:48 [INFO] - Returning generated data
+2024-09-28 16:29:48 [INFO] - 
+2024-09-28 16:30:04 [INFO] - 
+2024-09-28 16:30:04 [INFO] - Starting the service
+2024-09-28 16:30:04 [INFO] - 
+2024-09-28 16:30:26 [INFO] - 
+2024-09-28 16:30:26 [INFO] - Received call from <property object at 0x1046476f0>
+2024-09-28 16:30:26 [INFO] - 
+2024-09-28 16:31:04 [INFO] - 
+2024-09-28 16:31:04 [INFO] - Returning generated data
+2024-09-28 16:31:04 [INFO] - 
+2024-09-28 17:10:37 [INFO] - 
+2024-09-28 17:10:37 [INFO] - Starting the service
+2024-09-28 17:10:37 [INFO] - 
+2024-09-28 17:15:27 [INFO] - 
+2024-09-28 17:15:27 [INFO] - Received call from <property object at 0x1029b3420>
+2024-09-28 17:15:27 [INFO] - 
+2024-09-28 17:15:48 [ERROR] - 
+2024-09-28 17:15:48 [ERROR] - Failed to get a response. Status code: 500
+Traceback (most recent call last):
+  File "/Users/szymon/Desktop/smoker_detection/sennik/diary_generation.py", line 132, in generate_story
+    image = await generate_image(title)
+  File "/Users/szymon/Desktop/smoker_detection/sennik/diary_generation.py", line 117, in generate_image
+    raise Exception(f"Failed to get a response. Status code: {response.status}")
+Exception: Failed to get a response. Status code: 500
+2024-09-28 17:15:48 [ERROR] - An unexpected error occurred.
+2024-09-28 17:15:48 [ERROR] - 
+2024-09-28 17:16:08 [INFO] - 
+2024-09-28 17:16:08 [INFO] - Starting the service
+2024-09-28 17:16:08 [INFO] - 
+2024-09-28 17:16:10 [INFO] - 
+2024-09-28 17:16:10 [INFO] - Received call from <property object at 0x1031a78d0>
+2024-09-28 17:16:10 [INFO] - 
+2024-09-28 17:17:23 [INFO] - 
+2024-09-28 17:17:23 [INFO] - Returning generated data
+2024-09-28 17:17:23 [INFO] - 
+2024-09-28 17:19:46 [INFO] - 
+2024-09-28 17:19:46 [INFO] - Starting the service
+2024-09-28 17:19:46 [INFO] - 
+2024-09-28 17:21:00 [INFO] - 
+2024-09-28 17:21:00 [INFO] - Starting the service
+2024-09-28 17:21:00 [INFO] - 
+2024-09-28 17:21:12 [INFO] - 
+2024-09-28 17:21:12 [INFO] - Received call from <property object at 0x10313b740>
+2024-09-28 17:21:12 [INFO] - 
+2024-09-28 17:21:31 [INFO] - 
+2024-09-28 17:21:31 [INFO] - Returning generated data
+2024-09-28 17:21:31 [INFO] - 
+2024-09-28 17:23:25 [INFO] - 
+2024-09-28 17:23:25 [INFO] - Received call from <property object at 0x10313b740>
+2024-09-28 17:23:25 [INFO] - 
+2024-09-28 17:23:54 [INFO] - 
+2024-09-28 17:23:54 [INFO] - Starting the service
+2024-09-28 17:23:54 [INFO] - 
+2024-09-28 17:24:13 [INFO] - 
+2024-09-28 17:24:13 [INFO] - Received call from <property object at 0x107273290>
+2024-09-28 17:24:13 [INFO] - 
+2024-09-28 17:24:27 [ERROR] - 
+2024-09-28 17:24:27 [ERROR] - Failed to get a response. Status code: 500
+Traceback (most recent call last):
+  File "/Users/szymon/Desktop/smoker_detection/sennik/diary_generation.py", line 132, in generate_story
+    image = await generate_image(title)
+  File "/Users/szymon/Desktop/smoker_detection/sennik/diary_generation.py", line 117, in generate_image
+    raise Exception(f"Failed to get a response. Status code: {response.status}")
+Exception: Failed to get a response. Status code: 500
+2024-09-28 17:24:27 [ERROR] - An unexpected error occurred.
+2024-09-28 17:24:27 [ERROR] - 
+2024-09-28 17:33:27 [INFO] - 
+2024-09-28 17:33:27 [INFO] - Starting the service
+2024-09-28 17:33:27 [INFO] - 
+2024-09-28 17:33:33 [INFO] - 
+2024-09-28 17:33:33 [INFO] - Received call from <property object at 0x106a6b6a0>
+2024-09-28 17:33:33 [INFO] - 
+2024-09-28 17:34:13 [INFO] - 
+2024-09-28 17:34:13 [INFO] - Returning generated data
+2024-09-28 17:34:13 [INFO] - 
